@@ -6,8 +6,7 @@ A modern, responsive, and SEO-friendly freelance portfolio template designed for
 
 🌐 Live Demo
 
-https://rakibdeveloper.pro.bd
-
+https://rakibhussain-developer.github.io/portfolio/
 ---
 
 📦 Getting Started
@@ -44,7 +43,7 @@ This template is provided for educational, personal, and commercial use in accor
 ---
 
 🔗 Live Demo
+https://rakibhussain-developer.github.io/portfolio/
 
-https://rakibdeveloper.pro.bd
-
+developer.github.io/portfolio/)
 © ThemeDokan. All rights reserved.
